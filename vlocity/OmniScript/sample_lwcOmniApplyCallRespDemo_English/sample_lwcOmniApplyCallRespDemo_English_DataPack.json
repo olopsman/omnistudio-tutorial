@@ -1,0 +1,22 @@
+{
+    "%vlocity_namespace%__DisableMetadataCache__c": false,
+    "%vlocity_namespace%__ElementTypeToHTMLTemplateList__c": "{\"ElementTypeToHTMLTemplateList\":[]}",
+    "%vlocity_namespace%__Element__c": [
+        "sample_lwcOmniApplyCallRespDemo_English_Element_OmniApplyCallResp.json",
+        "sample_lwcOmniApplyCallRespDemo_English_Element_CustomLWC1.json",
+        "sample_lwcOmniApplyCallRespDemo_English_Element_TextBlock1.json"
+    ],
+    "%vlocity_namespace%__IsLwcEnabled__c": true,
+    "%vlocity_namespace%__IsProcedure__c": false,
+    "%vlocity_namespace%__IsReusable__c": false,
+    "%vlocity_namespace%__IsTest__c": false,
+    "%vlocity_namespace%__Language__c": "English",
+    "%vlocity_namespace%__OmniProcessType__c": "OmniScript",
+    "%vlocity_namespace%__PropertySet__c": "sample_lwcOmniApplyCallRespDemo_English_PropertySet.json",
+    "%vlocity_namespace%__SubType__c": "lwcOmniApplyCallRespDemo",
+    "%vlocity_namespace%__Type__c": "sample",
+    "Name": "omniApplyCallRespDemo",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "%vlocity_namespace%__OmniScript__c",
+    "VlocityRecordSourceKey": "%vlocity_namespace%__OmniScript__c/sample/lwcOmniApplyCallRespDemo/English"
+}
