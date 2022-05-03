@@ -1,0 +1,36 @@
+{
+    "%vlocity_namespace%__Author__c": "Quonsepto",
+    "%vlocity_namespace%__CardType__c": "flex",
+    "%vlocity_namespace%__Datasource__c": {
+        "contextVariables": [
+            {
+                "id": 2,
+                "name": "recordId",
+                "val": "0015j000007ZlvOAAS"
+            }
+        ],
+        "orderBy": {
+            "isReverse": false,
+            "name": ""
+        },
+        "type": "ApexRest",
+        "value": {
+            "endpoint": "/services/apexrest/flexCard/{recordId}",
+            "methodType": "GET",
+            "resultVar": ""
+        }
+    },
+    "%vlocity_namespace%__Definition__c": "FlexApexREST.json",
+    "%vlocity_namespace%__Description__c": "",
+    "%vlocity_namespace%__GlobalKey__c": "FlexApexREST/Quonsepto/1/1648507752352",
+    "%vlocity_namespace%__IsChildCard__c": false,
+    "%vlocity_namespace%__ParentID__c": "",
+    "%vlocity_namespace%__SampleData__c": "{\"attributes\":{\"type\":\"Contact\",\"url\":\"/services/data/v54.0/sobjects/Contact/0035j000005ybwMAAQ\"},\"Id\":\"0035j000005ybwMAAQ\",\"FirstName\":\"Jack\",\"LastName\":\"Rogers\",\"Email\":\"jrogers@burlington.com\",\"Phone\":\"(336) 222-7000\"}",
+    "%vlocity_namespace%__Styles__c": "",
+    "%vlocity_namespace%__Type__c": "",
+    "%vlocity_namespace%__Version__c": 1,
+    "Name": "FlexApexREST",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "%vlocity_namespace%__VlocityCard__c",
+    "VlocityRecordSourceKey": "%vlocity_namespace%__VlocityCard__c/FlexApexREST"
+}
